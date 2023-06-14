@@ -1,0 +1,3 @@
+[submodule "FrontEnd/FrontEnd/exercise-pokemon-card"]
+	path = FrontEnd/FrontEnd/exercise-pokemon-card
+	url = git@github.com:leonardo-caixeta/exercicios-github.git
